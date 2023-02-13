@@ -3,7 +3,7 @@
 library(tidyverse)
 library(lubridate)
 
-# run this line below load the data for this assignment change
+# run this line below load the data for this assignment
 # we'll use a built-in dataset from the ggplot2 package (loaded as party of the tidyverse)
 housesales <- ggplot2::txhousing
 
